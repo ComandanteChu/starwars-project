@@ -1,0 +1,16 @@
+.error_component {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-size: 24px;
+}
+
+.boom {
+    color: #ffd700;
+}
+
+.error_component span{
+    color: #c2ab28;
+}
